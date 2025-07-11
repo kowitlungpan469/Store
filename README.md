@@ -1,2 +1,2 @@
 # Store
-First Store I made
+First Store adaptation By Kowitlungpan
